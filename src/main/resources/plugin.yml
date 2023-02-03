@@ -1,0 +1,11 @@
+name: LPMCRules
+version: '${project.version}'
+main: de.littleprogrammer.rules.Main
+api-version: 1.17
+authors: [ LittleProgrammer ]
+description: Let player accept the rules on LPMC.me
+website: lpmc.me
+commands:
+  Test:
+  rules:
+  kack:
